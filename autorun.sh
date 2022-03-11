@@ -2,10 +2,6 @@
 
 git add .
 
-git commit -m "Added inputs"
+git commit -m "Added inputs; autorun update"
 
 git push
-
-iyanuaransiola
-
-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
